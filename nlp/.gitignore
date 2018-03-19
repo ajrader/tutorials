@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+###############################
+.ipynb_checkpoints
+
+# Packages #
+###################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# latex directory
+################
+latex
+
+# recipe directory
+################
+data/recipes
+
+# specific file
+#
+SF*.png

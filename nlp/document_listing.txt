@@ -1,0 +1,10 @@
+author,book,file,breakword,train
+Verne,80days,data/103.txt,Chapter,1
+Verne,Leagues,data/2488.txt,CHAPTER,1
+Verne,Journey,data/3748.txt,CHAPTER,0
+Austen,Pride,data/1342-0.txt,Chapter,1
+Austen,Emma,data/158-0.txt,CHAPTER,1
+Austen,Sense,data/21839.txt,CHAPTER,0
+Doyle,Return,data/221-0.txt,THE STRAND MAGAZINE,1
+Doyle,Holmes,data/48320-0.txt,Adventure,1
+Doyle,Hound,data/2852.txt,Chapter,0
